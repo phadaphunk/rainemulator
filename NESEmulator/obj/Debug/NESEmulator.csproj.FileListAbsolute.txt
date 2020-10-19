@@ -1,0 +1,7 @@
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\Debug\NESEmulator.exe.config
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\Debug\NESEmulator.exe
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\Debug\NESEmulator.pdb
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\Debug\NESEmulator.csprojAssemblyReference.cache
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\Debug\NESEmulator.csproj.CoreCompileInputs.cache
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\Debug\NESEmulator.exe
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\Debug\NESEmulator.pdb

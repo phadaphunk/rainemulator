@@ -1,0 +1,11 @@
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\x64\Debug\NESEmulator.exe.config
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\x64\Debug\NESEmulator.exe
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\x64\Debug\NESEmulator.pdb
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\x64\Debug\NESEmulator.csprojAssemblyReference.cache
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\x64\Debug\NESEmulator.csproj.CoreCompileInputs.cache
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\x64\Debug\NESEmulator.csproj.CopyComplete
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\x64\Debug\NESEmulator.exe
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\obj\x64\Debug\NESEmulator.pdb
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\x64\Debug\OpenGL.Net.dll
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\x64\Debug\OpenGL.Net.pdb
+C:\Users\Ra1n\source\repos\NESEmulator\NESEmulator\bin\x64\Debug\OpenGL.Net.xml
